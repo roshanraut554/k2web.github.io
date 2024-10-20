@@ -17,11 +17,17 @@ The Architect Website is designed to provide a user-friendly interface for clien
 - **Team Showcase:** A dedicated section highlighting the talented team behind K2 Architects, including their roles and contributions.
 - **Project Gallery:** Visual presentations of various projects completed by the firm, showcasing design aesthetics and architectural skills.
 
-## Screenshot
-![Screenshot (302)](https://user-images.githubusercontent.com/93200960/215093326-13249bd8-2956-48cc-b310-dd24bff344f4.png)
+- 
+## screenshots
+![image](https://github.com/user-attachments/assets/71bfbd12-97d8-4823-9226-a84684bf035f)
+![image](https://github.com/user-attachments/assets/59047ecb-19fb-4b68-9e28-1e64ca91c4ee)
+![image](https://github.com/user-attachments/assets/880a7240-cf74-4e6b-ba02-d4ab6e52b944)
+![image](https://github.com/user-attachments/assets/19a0e4d1-42da-4400-98b3-ef238bae47b3)
 
-## Demo
-[![Demo Video](https://user-images.githubusercontent.com/93200960/196207036-bd425f78-1be9-49fe-8474-98769cef3eea.mp4)](https://user-images.githubusercontent.com/93200960/196207036-bd425f78-1be9-49fe-8474-98769cef3eea.mp4)
+
+
+
+
 
 ## 🚀 About Us
 We are a dedicated team of architects and developers committed to delivering innovative design solutions. 
@@ -35,12 +41,7 @@ We are a dedicated team of architects and developers committed to delivering inn
 ### Client:
 - **Ar. Sachin Kothari**: Our esteemed client, who provided valuable insights and guidance throughout the project development.
 
-## 🔗 Links
-[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-me-karanchandekar.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-chandekar-a87263219/)
-[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/karanchandekar1)
 
-## Installation
 To run the project locally, follow these steps:
 1. Clone the repository:
    ```bash
